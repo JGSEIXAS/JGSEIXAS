@@ -1,7 +1,5 @@
 # Olá! Eu sou o Gabriel Seixas 👋
 
-![Meu Perfil](https://avatars.githubusercontent.com/u/101992372?s=400&u=bd2bd49692727154c26c99dcdf2fbdc7e51ace16&v=4)
-
 🚀 **Desenvolvedor C** | 💻 **Programação de Algoritmos** | 📚 **Estudante da UFAL**  
 🎮 **Interessado em IA e Otimização**
 
