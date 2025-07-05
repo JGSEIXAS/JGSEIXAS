@@ -1,42 +1,53 @@
-# Olá! Eu sou o Gabriel Seixas 👋
+# Hello! I'm Gabriel Seixas 👋
 
-🚀 **Desenvolvedor C** | 💻 **Programação de Algoritmos** | 📚 **Estudante da UFAL**  
-🎮 **Interessado em IA e Otimização**
+🚀 **C Developer** | 💻 **Algorithm Programming** | 📚 **UFAL Student**
+🎮 **Interested in AI and Optimization**
 
-![Tecnologias](https://img.shields.io/badge/Tech-C%20%7C%20C++%20%7C%20Python-blue) ![GitHub](https://img.shields.io/badge/Version-GitHub%20User-green) ![Elixir](https://img.shields.io/badge/Elixir-v1.14.2-red)
-
-## 🌱 Atualmente estou aprendendo:
-- **Algoritmos de Grafos** em C (Kosaraju, Dijkstra, Kruskal, Prim, Bellman-Ford)
-- **Otimização** com IA (Hill Climbing, Simulated Annealing)
-- **Otimização em grafos e Programação Competitiva**
-
-## 🧑‍💻 Contribuições Open Source:
-- **Estudo e contribuição** para projetos relacionados a algoritmos, IA e otimização.
-- **Atividades acadêmicas** e participação em projetos de desenvolvimento colaborativo.
-
-## 💼 Sobre mim:
-Sou estudante da **Universidade Federal de Alagoas (UFAL)**, apaixonado por **programação** e **tecnologia**. Atualmente estou focado em melhorar minhas habilidades com **algoritmos de grafos** e **otimização**.
-
-## 📫 Como me encontrar:
-- **E-mail:** jgss@ic.ufal.br
-- **LinkedIn:** [Gabriel Seixas](www.linkedin.com/in/jgseixas)
-- **Instagram:** [@jgseixas_](https://www.instagram.com/jgseixas/)
-
-## 🔧 Tecnologias que utilizo:
-- C | C++ | Python
-- Docker | Git | GitHub
-- Elasticsearch | Kibana
-- Elixir
+[![Technologies](https://img.shields.io/badge/Tech-C%20%7C%20C++%20%7C%20Python-blue)](https://github.com/JGSEIXAS) [![GitHub](https://img.shields.io/badge/Version-GitHub%20User-green)](https://github.com/JGSEIXAS) [![Elixir](https://img.shields.io/badge/Elixir-v1.14.2-red)](https://elixir-lang.org/)
 
 ---
 
+## 🌱 Currently Learning:
+I'm deep-diving into:
+* **Graph Algorithms in C** (Kosaraju, Dijkstra, Kruskal, Prim, Bellman-Ford)
+* **AI-driven Optimization** (Hill Climbing, Simulated Annealing)
+* **Graph Optimization and Competitive Programming**
 
-🎯 **Objetivo:** Continuar aprimorando minhas habilidades, principalmente em **algoritmos de otimização** e **inteligência artificial**, além de expandir meus projetos acadêmicos e colaborar com a comunidade open-source.
+---
 
-> **"A cada desafio, uma oportunidade para crescer e aprender!"**
+## 🧑‍💻 Open Source Contributions:
+I actively **study and contribute** to projects related to algorithms, AI, and optimization. I'm also involved in **academic activities** and collaborative development projects.
 
-## 📈 Contribuições no GitHub:
+---
 
-![Contribuições](https://github-readme-stats.vercel.app/api/top-langs/?username=JGSEIXAS&layout=compact&hide=html,css&langs_count=10&theme=radical)
+## 💼 About Me:
+I'm a passionate **programming and technology** enthusiast currently studying at the **Federal University of Alagoas (UFAL)**. My main focus is on enhancing my skills in **graph algorithms** and **optimization techniques**.
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=JGSEIXAS&show_icons=true&count_private=true&hide=prs&theme=radical)
+---
+
+## 📫 How to Reach Me:
+* **Email:** jgss@ic.ufal.br
+* **LinkedIn:** [Gabriel Seixas](https://www.linkedin.com/in/jgseixas)
+* **Instagram:** [@jgseixas_](https://www.instagram.com/jgseixas/)
+
+---
+
+## 🔧 Technologies I Use:
+* C | C++ | Python
+* Docker | Git | GitHub
+* Elasticsearch | Kibana
+* Elixir
+
+---
+
+🎯 **Goal:** My objective is to continuously improve my skills, especially in **optimization algorithms** and **artificial intelligence**, while also expanding my academic projects and collaborating with the open-source community.
+
+> **"Every challenge is an opportunity to grow and learn!"**
+
+---
+
+## 📈 GitHub Contributions:
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JGSEIXAS&layout=compact&hide=html,css&langs_count=10&theme=radical)](https://github.com/JGSEIXAS)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JGSEIXAS&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/JGSEIXAS)
